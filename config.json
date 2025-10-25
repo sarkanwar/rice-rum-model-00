@@ -1,0 +1,15 @@
+{
+  "rice_benchmarks": {
+    "yahoo_symbol": "ZR=F"
+  },
+  "company_groups": {
+    "Global agri traders": [
+      "ADM",
+      "BG"
+    ],
+    "India basmati (edit)": [
+      "KRBL.NS",
+      "DAAWAT.NS"
+    ]
+  }
+}
